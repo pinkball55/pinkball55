@@ -3,7 +3,7 @@
 I am a Senior Full Stack Developer with extensive experience in developing and optimizing interactive front-end components and APIs, resulting in significant improvements in user engagement and data retrieval efficiency.
 My career includes roles at Seafair, AEIS LLC, Taioffices, and Freelancer, where I led development teams and delivered over 30 successful projects using technologies like React Native, JavaScript, Python, and TypeScript.
 My key accomplishments include migrating legacy systems to modern databases, achieving high customer satisfaction, and implementing robust security measures.
-I got a Bachelor's degree in Computer Science from University of Basel.
+I got a Bachelor's degree in Computer Science.
 
 With expertise in Agile methodologies and extensive experience using Jira, I effectively manage project workflows, ensuring efficient sprint planning, clear communication, and timely delivery of high-quality software solutions.
 I am proficient in Git for version control, I ensure smooth collaboration across teams, maintain clean code history, and manage branching strategies to support agile development and rapid feature deployment.
