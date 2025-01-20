@@ -1,7 +1,7 @@
 💫 About Me
 
 I am a Senior Full Stack Developer with extensive experience in developing and optimizing interactive front-end components and APIs, resulting in significant improvements in user engagement and data retrieval efficiency.
-My career includes roles at Seafair, AEIS LLC, Taioffices, and Freelancer, where I led development teams and delivered over 30 successful projects using technologies like React Native, JavaScript, Python, and TypeScript.
+My career includes roles at Seafair, AEIS LLC, Taioffices, and Freelancer, where I led development teams and delivered over 30 successful projects using technologies like React, React Native, Vue, Angular, JavaScript, Python, and TypeScript.
 My key accomplishments include migrating legacy systems to modern databases, achieving high customer satisfaction, and implementing robust security measures.
 I got a Bachelor's degree in Computer Science.
 
